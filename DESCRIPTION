@@ -1,0 +1,11 @@
+Package: DacianGheorghe
+Type: Package
+Title: Personal package
+Version: 0.1.0
+Author: Dacian Gheorghe
+Maintainer: Dacian Gheorghe <daciangheorghe@outlook.com>
+Description: .
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
